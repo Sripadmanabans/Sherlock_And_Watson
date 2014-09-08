@@ -1,0 +1,1 @@
+This is my solution for Sherlock and Watson problem in HackerRank.
